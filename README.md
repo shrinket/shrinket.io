@@ -7,3 +7,6 @@ I'm currently working the API behind this site, which means that the actual URL 
 - Use custom domains (yoursite.com/randomstring).
 - Releasing the API for public use to integrate shortening URLs to other projects.
 - Releasing a CLI tool to create shortened URLs programmatically.
+
+### Screenshot of Shrinket.io site
+![Screenshot of Shrinket.io](https://github.com/shrinket/shrinket.io/blob/master/shrinket-io.png "shrinket.io")
