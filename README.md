@@ -1,4 +1,4 @@
-# shrinket.io - The PHP URL Shortener
+# [shrinket.io](https://shrinket.io) - The PHP URL Shortener
 
 I'm currently working the API behind this site, which means that the actual URL shortening isn't currently functional as the site will also rely on this API for functionality.
 
